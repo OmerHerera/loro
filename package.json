@@ -8,7 +8,7 @@
   "contributors": [
     {}
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "body-parser": "^1.13.1",
     "express": "^4.13.0"
