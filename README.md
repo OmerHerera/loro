@@ -15,6 +15,16 @@ The server reads the ```data.json``` file and retreive it, you can add more data
 	* http://yourURL:port/json/loro/loro5
 
 
+> Aplication Deployed on Heroku
+
+- USE
+	- [All Data](http://loros.herokuapp.com/json/loros) 
+	- [Single Loro 1](http://loros.herokuapp.com/json/loro/loro1) 
+	- [Single Loro 2](http://loros.herokuapp.com/json/loro/loro2) 
+	- [Single Loro 3](http://loros.herokuapp.com/json/loro/loro3) 
+	- [Single Loro 4](http://loros.herokuapp.com/json/loro/loro4) 
+	- [Single Loro 5](http://loros.herokuapp.com/json/loro/loro5) 
+
 
 ## Dependencies
 * [Express](http://expressjs.com) - Router, view rentering, configuration
