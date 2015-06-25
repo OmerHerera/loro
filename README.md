@@ -1,4 +1,5 @@
 ![Alt text](https://cloud.githubusercontent.com/assets/5514007/8333518/fd5cdb3c-1a9b-11e5-91d1-444c19faab0a.png)
+
 [![Dependency Status](https://david-dm.org/OmerHerera/loro.svg?theme=shields.io)](https://david-dm.org/OmerHerera/loro)
 [![devDependency Status](https://david-dm.org/OmerHerera/loro/dev-status.svg?theme=shields.io)](https://david-dm.org/OmerHerera/loro#info=devDependencies)
 [![npm version](https://badge.fury.io/js/loro.svg)](http://badge.fury.io/js/loro)
