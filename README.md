@@ -4,7 +4,7 @@
 [![devDependency Status](https://david-dm.org/OmerHerera/loro/dev-status.svg?theme=shields.io)](https://david-dm.org/OmerHerera/loro#info=devDependencies)
 [![npm version](https://badge.fury.io/js/loro.svg)](http://badge.fury.io/js/loro)
 [![npm downloads](https://img.shields.io/npm/dm/loro.svg)](https://img.shields.io/npm/dm/loro.svg)
-[![NPM](https://nodei.co/npm/loro.png)](https://nodei.co/npm/loro/)
+[![NPM](https://nodei.co/npm/loro.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/loro/)
 
 > A Simple server written using NodeJS + expressJS, that supports POST/GET methods and return simple json responses.
 
